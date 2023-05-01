@@ -1,14 +1,18 @@
 {
-  "users" : [
+  "users": [
     {
       "id": "001",
       "username": "jesulonimii",
       "first_name": "William",
-      "last_name": "Jesulonimii",
+      "last_name": "Jesulonimi",
       "profile_image": "https://jesulonimii.codes/img/me.jpg",
-      "email": "jesulonimii.will@gmail.com"
-    }
+      "email": "jesulonimii.will@gmail.com",
+      "cart" : [],
+      "wishlist" : [],
+      "orders" : [],
+      "notifications" : []
 
+    }
   ],
   "featured" : [
     {
@@ -18,7 +22,8 @@
       "price" : "8500",
       "images" : [
         "https://preppykitchen.com/wp-content/uploads/2022/02/Baked-Donuts-Recipe.jpg"
-      ]
+      ],
+      "description": "Enjoy the classic taste of freshly baked donuts, made with love by Pastryz. Our donuts are baked fresh daily and come in a variety of flavors, including chocolate, vanilla, and strawberry. "
     },
     {
       "id" : "d37ujend83woj4w4w2g3",
@@ -27,7 +32,8 @@
       "price" : "8500",
       "images" : [
         "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8&w=1000&q=80"
-      ]
+      ],
+      "description": "A stylish and comfortable pair of Nike shoes. Made with soft cotton and a relaxed fit, these shoes are perfect for everyday wear."
     },
     {
       "id" : "234ertuygihbj876rt",
@@ -36,7 +42,8 @@
       "price" : "8500",
       "images" : [
         "https://www.chefspencil.com/wp-content/uploads/Amala-and-Ewedu-Soup-1.jpg"
-      ]
+      ],
+      "description": "A delicious and hearty soup made with melon seeds and assorted meats. Served with pounded yam."
     },
     {
       "id" : "mnbv4567nmjuk09876",
@@ -45,18 +52,22 @@
       "price" : "15000",
       "images" : [
         "https://nb.scene7.com/is/image/NB/mt03558ecl_nb_70_i?$pdpflexf2$&wid=440&hei=440"
-      ]
+      ],
+      "description": "A stylish and comfortable hoodie from New Balance. Made with soft cotton and a relaxed fit, this hoodie is perfect for everyday wear."
     }
   ],
   "flash-sales" : [
     {
       "id" : "uytr89765hjkm3421qwe",
-      "name" : "iPhone 13",
+      "name" : "iPhone x 13",
       "retailer" : "Gadget Hub",
       "price" : "85000",
       "images" : [
-        "https://www.digitaltrends.com/wp-content/uploads/2021/09/iphone-13-pro-review-dan-baker-35.jpg?p=1"
-      ]
+        "https://www.digitaltrends.com/wp-content/uploads/2021/09/iphone-13-pro-review-dan-baker-35.jpg?p=1",
+        "https://images.moneycontrol.com/static-mcnews/2021/10/Apple-iPhone-13-4.jpg?impolicy=website&width=1600&height=900",
+        "https://specials-images.forbesimg.com/imageserve/614cf47a19e36265581ede7d/Apple-iPhone-13-mini-in-black-and-iPhone-13-in-blue-/960x0.jpg?fit=scale"
+      ],
+      "description": "The latest iPhone from Apple. Enjoy a stunning 6.1-inch display, a powerful A15 Bionic chip, and a 12MP dual-camera system."
     },
     {
       "id" : "098u76tghjki90olp0",
@@ -65,7 +76,8 @@
       "price" : "200000",
       "images" : [
         "https://images.samsung.com/is/image/samsung/assets/global/hq/vd/tvs/smart-tv/samsung-tv-plus/2020-smart-tv-tv-plus-01-kv-mo_1.jpg?$FB_TYPE_B_JPG$"
-      ]
+      ],
+      "description": "A large and immersive 75-inch smart TV from Samsung. Enjoy your favorite movies and shows in stunning 4K resolution. "
     },
     {
       "id": "stu123vwx456yz789",
@@ -74,7 +86,8 @@
       "price": "9500",
       "images": [
         "https://e3.365dm.com/22/06/2048x1152/skynews-fish-chips_5796594.jpg"
-      ]
+      ],
+      "description": "Enjoy the classic taste of British fish and chips, made fresh and served hot at The Seaside Cafe. Our crispy battered fish and perfectly salted chips are the perfect meal for any occasion."
     },
     {
       "id" : "123abcd456efg789hi",
@@ -83,7 +96,8 @@
       "price" : "500",
       "images" : [
         "https://africanbites.com/wp-content/uploads/2012/11/IMG_5039.jpg"
-      ]
+      ],
+      "description": "Indulge in the sweet and fluffy goodness of Sugared Puff Puff, a beloved Nigerian snack. Made fresh daily by As E Dey Hot, these bite-sized treats are the perfect way to satisfy your sweet tooth."
     }
   ],
   "for-you" : [
@@ -94,7 +108,8 @@
       "price": "12900",
       "images": [
         "https://i.guim.co.uk/img/media/25cf5d52dbefc0d076a362caa59d25017124256a/522_714_4090_2454/master/4090.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=12e8863645d9b32ec4ec491f0e32871b"
-      ]
+      ],
+      "description": "Experience immersive sound quality and convenience with Soundwave's Wireless Earbuds. These sleek and stylish earbuds offer noise-cancellation and touch controls, making them the perfect accessory for any music lover."
     },
     {
       "id": "pqr123stu456vwx789",
@@ -103,7 +118,8 @@
       "price": "13900",
       "images": [
         "https://www.zdnet.com/a/img/resize/047e684758d28a6b0e0580840f1d35fe183e6f31/2022/07/15/801b614a-3a25-498e-8ff4-e1141a36cdfe/echo.jpg?auto=webp&fit=crop&height=360&width=640"
-      ]
+      ],
+      "description": "Transform your home into a smart home with the Alexa Smart Home Hub from Home Connect. This device allows you to control all of your smart devices with your voice, and offers a range of features including music streaming and weather updates."
     },
     {
       "id": "uvw123xyz456abc789",
@@ -112,16 +128,25 @@
       "price": "3499",
       "images": [
         "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/76/260328/1.jpg?9451"
-      ]
+      ],
+        "description": "Fresh Threads' Cotton T-Shirts are the perfect addition to any wardrobe. These shirts are made from 100% cotton, making them soft and comfortable. They come in a variety of colors and styles, so you can find one that suits your style."
     },
     {
       "id": "def123ghi456jkl789",
-      "name": "Propella Electric Bikes",
-      "retailer": "Propella",
+      "name": "Folding Bicycles",
+      "retailer": "CycleX",
       "price": "26900",
       "images": [
-        "https://images.squarespace-cdn.com/content/v1/57d61144e58c62ac0e3179cf/80774963-24ad-43d5-b35e-d1c0527cf39f/7S+Isometric_grey+background.jpeg?format=1000w"
-       ]
+        "https://discerningcyclist.com/wp-content/uploads/2021/09/folding-bikes.jpg"
+       ],
+      "description": "CycleX's Folding Bicycles are the perfect solution for those who want to get around town without the hassle of a full-sized bike. These lightweight bikes fold up in seconds, making them easy to store and transport. They're also great for commuting or just getting some exercise!"
+    }
+  ],
+  "categories" : [
+    {
+      "id" : "1234567890",
+      "name" : "Electronics",
+      "image" : "https://images.unsplash.com/photo-1517430816045-df4b7de11d1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZWxlY3Ryb25pY3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
     }
   ]
 }
